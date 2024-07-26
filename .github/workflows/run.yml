@@ -16,6 +16,6 @@ jobs:
         java-version: '21'
         distribution: 'oracle'
 
-    - run: javac src/**/*.java
+    - run: javac src/おぶじぇくとあうとぷっとすとりーむをつかったしりあらいず.java
 
     - run: java src/おぶじぇくとあうとぷっとすとりーむをつかったしりあらいず.java
